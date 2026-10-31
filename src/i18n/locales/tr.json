@@ -1,0 +1,45 @@
+{
+    "app": {
+        "name": "Coreverse Launcher"
+    },
+    "nav": {
+        "home": "Ana Sayfa",
+        "library": "Kütüphane",
+        "settings": "Ayarlar"
+    },
+    "common": {
+        "toggleTheme": "Temayı değiştir",
+        "changeLanguage": "Dili değiştir"
+    },
+    "theme": {
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Sistem"
+    },
+    "home": {
+        "title": "Coreverse'e hoş geldin",
+        "subtitle": "Coreverse ekosisteminin resmi başlatıcısı.",
+        "statusTitle": "Uygulama durumu",
+        "statusDesktop": "Masaüstü uygulaması olarak çalışıyor.",
+        "statusBrowser": "Tarayıcı önizlemesinde çalışıyor. Yerel özellikler için uygulamayı Tauri ile başlat.",
+        "version": "Sürüm {{version}}"
+    },
+    "library": {
+        "title": "Kütüphane",
+        "emptyTitle": "Henüz bir şey kurulu değil",
+        "emptyDescription": "Kurulu Coreverse Engine sürümleri ve projeler burada görünecek."
+    },
+    "settings": {
+        "title": "Ayarlar",
+        "appearanceTitle": "Görünüm",
+        "themeLabel": "Tema",
+        "themeDescription": "Başlatıcının görünümünü seç.",
+        "languageLabel": "Dil",
+        "languageDescription": "Arayüz dilini seç."
+    },
+    "notFound": {
+        "title": "Sayfa bulunamadı",
+        "description": "Aradığın sayfa mevcut değil.",
+        "back": "Ana sayfaya dön"
+    }
+}

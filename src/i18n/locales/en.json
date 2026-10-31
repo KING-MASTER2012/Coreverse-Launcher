@@ -1,0 +1,45 @@
+{
+    "app": {
+        "name": "Coreverse Launcher"
+    },
+    "nav": {
+        "home": "Home",
+        "library": "Library",
+        "settings": "Settings"
+    },
+    "common": {
+        "toggleTheme": "Change theme",
+        "changeLanguage": "Change language"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "home": {
+        "title": "Welcome to Coreverse",
+        "subtitle": "The official launcher of the Coreverse ecosystem.",
+        "statusTitle": "Application status",
+        "statusDesktop": "Running as a desktop application.",
+        "statusBrowser": "Running in a browser preview. Start the app with Tauri to use native features.",
+        "version": "Version {{version}}"
+    },
+    "library": {
+        "title": "Library",
+        "emptyTitle": "Nothing installed yet",
+        "emptyDescription": "Installed Coreverse Engine versions and projects will appear here."
+    },
+    "settings": {
+        "title": "Settings",
+        "appearanceTitle": "Appearance",
+        "themeLabel": "Theme",
+        "themeDescription": "Choose how the launcher looks.",
+        "languageLabel": "Language",
+        "languageDescription": "Choose the language of the interface."
+    },
+    "notFound": {
+        "title": "Page not found",
+        "description": "The page you are looking for does not exist.",
+        "back": "Back to home"
+    }
+}
